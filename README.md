@@ -8,9 +8,9 @@ operations.
 
 ## Tech Stack 
 
-Programming: Python, SQL
-Backend: Django, Django REST Framework, FastAPI, Pydantic
-Databases: PostgreSQL, Django ORM, SQLAlchemy, Alembic
-Infrastructure: Docker, Docker Compose, Nginx, Gunicorn, GitHub Actions, CI/CD
-Tools: Git, GitHub, Ruff, Pre-commit
-Other: REST API, JWT, Celery, RabbitMQ
+# Programming: Python, SQL
+# Backend: Django, Django REST Framework, FastAPI, Pydantic
+# Databases: PostgreSQL, Django ORM, SQLAlchemy, Alembic
+# Infrastructure: Docker, Docker Compose, Nginx, Gunicorn, GitHub Actions, CI/CD
+# Tools: Git, GitHub, Ruff, Pre-commit
+# Other: REST API, JWT, Celery, RabbitMQ
