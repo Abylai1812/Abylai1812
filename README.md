@@ -15,4 +15,4 @@ Tools: Git, GitHub, Ruff, Pre-commit <br>
 Other: REST API, JWT, Celery, RabbitMQ <br>
 
 ## Contacts
-[Телеграм](@Stephenking1997) 
+[Linkedin](https://www.linkedin.com/in/abylaikhan-moshanov-9b996a1b7/)  Почта:abylaikhhann@mail.ru
