@@ -15,4 +15,6 @@ Tools: Git, GitHub, Ruff, Pre-commit <br>
 Other: REST API, JWT, Celery, RabbitMQ <br>
 
 ## Contacts
-[Linkedin](https://www.linkedin.com/in/abylaikhan-moshanov-9b996a1b7/)  Почта:abylaikhhann@mail.ru
+Почта: abylaikhhann@mail.ru <br> 
+[Linkedin](https://www.linkedin.com/in/abylaikhan-moshanov-9b996a1b7/)  
+[Telegram](https://web.telegram.org/a/)  
