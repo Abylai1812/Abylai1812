@@ -13,3 +13,6 @@ Databases: PostgreSQL, Django ORM, SQLAlchemy, Alembic <br>
 Infrastructure: Docker, Docker Compose, Nginx, Gunicorn, GitHub Actions, CI/CD <br>
 Tools: Git, GitHub, Ruff, Pre-commit <br>
 Other: REST API, JWT, Celery, RabbitMQ <br>
+
+## Contacts
+[Телеграм](@Stephenking1997) 
