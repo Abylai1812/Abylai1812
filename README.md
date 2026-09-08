@@ -7,9 +7,9 @@ Currently developing a personal backend project — an electronic permit-to-work
 operations.
 
 ## Tech Stack 
-
-### Programming: Python, SQL
-### Databases: PostgreSQL, Django ORM, SQLAlchemy, Alembic
-### Infrastructure: Docker, Docker Compose, Nginx, Gunicorn, GitHub Actions, CI/CD
-### Tools: Git, GitHub, Ruff, Pre-commit
-### Other: REST API, JWT, Celery, RabbitMQ
+Programming: Python, SQL <br>
+Backend: Django, Django REST Framework, FastAPI, Pydantic <br>
+Databases: PostgreSQL, Django ORM, SQLAlchemy, Alembic <br>
+Infrastructure: Docker, Docker Compose, Nginx, Gunicorn, GitHub Actions, CI/CD <br>
+Tools: Git, GitHub, Ruff, Pre-commit <br>
+Other: REST API, JWT, Celery, RabbitMQ <br>
